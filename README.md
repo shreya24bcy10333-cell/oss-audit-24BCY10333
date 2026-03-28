@@ -5,7 +5,7 @@ Open Source Software Project — Git Analysis and Shell Scripts
 
 ## 👤 Student Details
 
-**Name:** Shreya Rawat
+**Name:** Shreya Rawat 
 
 **Registration Number:** 24BCY10333
 
