@@ -3,7 +3,7 @@
 
 LOGFILE="sample_log.txt"
 KEYWORD="error"
-COUNT=0
+COUNT=0 
 
 # --- Create sample log file (so it always works) ---
 echo "info: git initialized" > $LOGFILE
